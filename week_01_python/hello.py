@@ -40,6 +40,42 @@ def main():
     print(c)
 
 
+import random
+
+
+a = [1,2,3,4,5]
+b = ['a','b','c','d','e']
+
+squares=[]
+for i in range(20):
+    squares.append(i*i)
+
+print(squares)
+print(squares[0],squares[-1])
+print(squares[5:10])
+print(squares[:7])
+print(squares[10:])
+
+randolist=[]
+for i in range(20):
+    randolist.append(random.randrange(0,100))
+
+
+board=[ [0,0,0], [0,0,0], [0,0,0]]
+print(board)
+print()
+board[1][1]=1
+board[0][1]=1
+board[2][1]=1
+print(board)
+
+larger_board=[]
+
+for row in range(3):
+    larger_board.append([0,0,0,0])
+
+print(larger_board)
+
 
 dict={}
 
