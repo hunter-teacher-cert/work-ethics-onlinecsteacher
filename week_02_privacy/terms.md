@@ -1,0 +1,11 @@
+Write up a short summary comparing and contrasting. Include an
+overview of what data is collected and maintained and how they may or may not use it:
+
+Tinder and Hinge have nearly identical privacy policies because they both operate under the Match group. In fact their "Information We Collect" sections of their privacy policies are exactly the same. They take information from users directly, such as gender, date of birth, photographs, racial or ethnic origins, sexual orientation and religious beliefs, debit or credit card information (if a paying subscriber), and "of course, [they] also process your chats with other user". Additionally, they collect information they receive from others and information collected when people use their services.
+
+They use this information to administer your account and provide our services to you, to help you connect with other users, to ensure a consistent experience across your devices, to provide new Tinder services to you, to serve you relevant offers and ads, to improve our services and develop new ones, to prevent, and to detect and fight fraud or other illegal or unauthorized activities. They may also share this information in a variety of ways including with other users, service providers, and Match Group businesses.
+
+Bumble writes that it collects the same information as well as location and
+login information for social media accounts. It uses this information in similar ways including sending information about promotions and offers, resolving disputes, investigating fraud, contacting users about new features and updates. Interestingly, Bumble then goes on to explain in detail the legal basis for sharing users' information, possibly because as they say in their policy, "Under EU and UK data protection laws, we are required to tell you our lawful basis for using your data".
+
+As I mentioned in Slack, all three companies admit to keeping and using users' data even after users delete and/or deactivate their accounts. The differences in the policies are likely only in what the companies ADMIT to keeping and for how long, likely not what they do in practice. I would guess that all three services aim to keep users' information for as long as legally possible because of how they are able to profit off of it.
