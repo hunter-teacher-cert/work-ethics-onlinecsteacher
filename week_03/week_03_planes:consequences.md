@@ -1,0 +1,5 @@
+Scholarships for college low income students: https://www.insidehighered.com/admissions/article/2021/09/27/critics-algorithms-push-admissions-wrong-direction
+
+Algorithms used in the college admissions process are denying low-income students scholarship funding. This article finds that algorithms used to optimize colleges’ yield (students enrolled/students accepted) often reduce scholarship funding to low income students. That is, the algorithms are great at predicting exactly how much financial aid to give students to convince them to enroll but often this amount of money is too low for those students to thrive in college.
+
+"First, when these algorithms work as intended, they may reduce average per-student scholarship support," he wrote. "Second, it is problematic that these algorithms typically optimize scholarships for yielding students, rather than using scholarships to support student graduation and success. The third concern is the possibility of algorithmic bias, through which subgroups of applicants who appear to the algorithm to be less affected by changes in scholarship funding may be mistreated."
