@@ -1,0 +1,20 @@
+Name file:
+
+Mr. Smith
+Mr Brown
+Ms. Smith
+Ms Brown
+Mrs. Smith
+Mrs Brown
+Miss Smith
+Mx. Smith
+Mx Smith
+Jane Doe
+Jane Rose Doe
+John Doe
+John Smith Doe
+
+Should not print:
+first last
+first Last
+first middle last
