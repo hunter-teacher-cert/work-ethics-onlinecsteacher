@@ -2,6 +2,9 @@ import re
 
 def find_name(line):
     pattern = r"[A-Z][a-z.]*[\ ][A-Z][a-z]*"
+
+    #I would think this would print names with First Middle Last but it doesn't
+    # print out anything but the third name
     #pattern = r"[A-Z][a-z.]*[\ ][A-Z][a-z]*([\ ][A-Z][a-z]*)*"
 
     result = re.findall(pattern,line)
